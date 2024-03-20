@@ -1,5 +1,5 @@
 {
-  "name": "react-native-manage-external-storage",
+  "name": "react-native-manage-external-storage-hotfix",
   "version": "0.1.8",
   "description": "React Native package to access and manage all files in android",
   "main": "lib/commonjs/index",
@@ -41,13 +41,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Hassan-jr/react-native-manage-external-storage",
-  "author": "Hassan-jr <abdiladifhassan115@gmail.com> (https://github.com/Hassan-jr)",
+  "repository": "https://github.com/woodwa68/react-native-manage-external-storage-hotfix",
+  "author": "wood <woodwa68@gmail.com> (https://github.com/woodwa68@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Hassan-jr/react-native-manage-external-storage/issues"
+    "url": "https://github.com/woodwa68/react-native-manage-external-storage-hotfix/issues"
   },
-  "homepage": "https://github.com/Hassan-jr/react-native-manage-external-storage#readme",
+  "homepage": "https://github.com/woodwa68/react-native-manage-external-storage-hotfix#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
