@@ -1,8 +1,8 @@
-# react-native-manage-external-storage
+# react-native-manage-external-storage-hotfix
 
 react native package to promt user to allow access to manage all files
 ## Introduction
-This Package (react-native-manage-external-storage) is implemented in java and it is register in react native and a native module. The package solves the issues about implementing **MANAGE_EXTERNAL_STORAGE** Permission that is need to access all files in an android phone in React Native 
+This Package (react-native-manage-external-storage-hotfix) is implemented in java and it is register in react native and a native module. The package solves the issues about implementing **MANAGE_EXTERNAL_STORAGE** Permission that is need to access all files in an android phone in React Native 
 
 The package is developed as a result of changes in Google Play Store Privacy Policy and the need to implement  MANAGE_EXTERNAL_STORAGE Permission in React Native. Google introduced this Permission from Android 11 (API level 30) or higher and its the ONLY way to access and Manage All files.
 
@@ -12,7 +12,7 @@ This is how this package implements the permission. It implements by promting th
 ## Installation
 
 ```sh
-npm install react-native-manage-external-storage
+npm install react-native-manage-external-storage-hotfix
 ```
 ## Android Setup
 ### 1. First Go to ---
@@ -195,7 +195,7 @@ public class PermissionFilePackage implements ReactPackage {
 ## Usage
 
 ```js
-import  ManageExternalStorage  from 'react-native-manage-external-storage';
+import  ManageExternalStorage  from 'react-native-manage-external-storage-hotfix';
 
 // ...Other codes
 
