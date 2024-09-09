@@ -1,6 +1,6 @@
 {
-  "name": "react-native-manage-external-storage-hotfix",
-  "version": "0.1.8",
+  "name": "react-native-external-storage-permission",
+  "version": "1.0.0",
   "description": "React Native package to access and manage all files in android",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -11,9 +11,6 @@
     "src",
     "lib",
     "android",
-    "ios",
-    "cpp",
-    "*.podspec",
     "!lib/typescript/example",
     "!ios/build",
     "!android/build",
@@ -41,13 +38,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/woodwa68/react-native-manage-external-storage-hotfix",
-  "author": "wood <woodwa68@gmail.com> (https://github.com/woodwa68@gmail.com)",
+  "repository": "https://github.com/leonredfish/react-native-external-storage-permission",
+  "author": "leonredfish <leon_redfish@163.com> (https://github.com/leonredfish)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/woodwa68/react-native-manage-external-storage-hotfix/issues"
+    "url": "https://github.com/leonredfish/react-native-external-storage-permission/issues"
   },
-  "homepage": "https://github.com/woodwa68/react-native-manage-external-storage-hotfix#readme",
+  "homepage": "https://github.com/leonredfish/react-native-external-storage-permission#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
